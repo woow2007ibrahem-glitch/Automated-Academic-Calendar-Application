@@ -1,8 +1,8 @@
-# AI 418 Project — [Team Name]
+# AI 418 Project — [UxDeVo]
  
 ## Team
-| Name | Student ID | Role this milestone |
-|---|---|---|
+| Ibrahem Arif | 4312496 | Leader |
+| Ahmed Alofi | 4410062 | Team Member|
  
 ## The problem
 One paragraph. A real task that real people do badly today.
