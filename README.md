@@ -13,7 +13,7 @@ In our university Prince miqrun bin abdulaziz in Saudi Arabia, Medinah, we as st
 Who specifically focus in Student as Big Major of our problem, but also we include the IT Section and Instructors and faculty members.
 
 Milestones
-- [] M1 (Week 5) — Understand: interviews, personas, storyboard, requirements
-- []M2 (Week 8) — Design & audit: wireframes to Figma prototype, WCAG 2.2 audit (AR + EN)
-- []M3 (Week 11) — Intelligence: one adaptive layer + honest uncertainty
+- [ ] M1 (Week 5) — Understand: interviews, personas, storyboard, requirements
+- [ ] M2 (Week 8) — Design & audit: wireframes to Figma prototype, WCAG 2.2 audit (AR + EN)
+- [ ] M3 (Week 11) — Intelligence: one adaptive layer + honest uncertainty
 Week 14 — Final report (8%) + Demo Day presentation (7%). There is no M4; the spatial layer is optional and built in Week 13 if your team takes it.
