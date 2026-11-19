@@ -12,7 +12,7 @@ In our university Prince miqrun bin abdulaziz in Saudi Arabia, Medinah, we as st
 ## Who this is for
 Who specifically focus in Student as Big Major of our problem, but also we include the IT Section and Instructors and faculty members.
 
-Milestones
+## Milestones
 - [ ] M1 (Week 5) — Understand: interviews, personas, storyboard, requirements
 - [ ] M2 (Week 8) — Design & audit: wireframes to Figma prototype, WCAG 2.2 audit (AR + EN)
 - [ ] M3 (Week 11) — Intelligence: one adaptive layer + honest uncertainty
