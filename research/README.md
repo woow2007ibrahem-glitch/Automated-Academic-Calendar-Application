@@ -1,10 +1,10 @@
 # AI 418 Project — [UxDeVo]
  
 ## Team
-Ibrahem Arif 4312496 Leader 
-Ahmed Alofi 4410062 Team Member
-Asaad Alful 4413223 Team Member
-Mohamed Ouellabi 4413332 Team Member
+## Ibrahem Arif 4312496 Leader 
+## Ahmed Alofi 4410062 Team Member
+## Asaad Alful 4413223 Team Member
+## Mohamed Ouellabi 4413332 Team Member
 
 ## The problem
 In our university Prince miqrun bin abdulaziz in Saudi Arabia, Medinah, we as student in this university we faced many problems with Microsoft teams and also the new Website which is D2L, we don't receive any notifications about exams or assignments, also we do Opinion Poll students, they get confuse for the Exams included matireals nad date, so in our application we make it easier and have update to you any changes and also have great and most efficient Automated Calendar.
